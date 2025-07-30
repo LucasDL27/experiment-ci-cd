@@ -1,0 +1,67 @@
+[33mbafdb5b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfixture[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/fixture[m[33m, [m[1;31morigin/bug[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mbug[m[33m)[m Configurando o GitHub Actions
+[33m2be69dd[m Create experiment-ci-cd.yml
+[33m09aa025[m removendo diretorio .github e atualizando readme para @v4
+[33mc952676[m atualizando o .yml para @v4
+[33me318b08[m sugestao .github/ no arquivo readme.md
+[33m3c954cb[m Último detalhes no arquivo readme.md
+[33mca0bd74[m Atualizando o readme.md
+[33m6fe41a4[m Atualizando readme.md com base no feedback
+[33m4ccfedc[m Atualizando a tag
+[33m5200a95[m Retirando o diretório .github com -R
+[33m24c129a[m Update README.md
+[33m0996eba[m Update README.md
+[33m9fdcf87[m readme updated
+[33m7757c64[m readme updated
+[33m2b6244b[m readme.md final
+[33m3033eee[m Atualizando o readme.md
+[33mbde053b[m readme.md final
+[33m1175da7[m Atualizando o readme.md
+[33m99f42d2[m README updated
+[33mb504cfa[m README updated
+[33m5d5b331[m Atualializando README
+[33mf43e61e[m Atualizando o arquivo README
+[33mfeab742[m Update README.md
+[33mf014777[m Mudando o teste
+[33m743c5cd[m Mudando os testes
+[33m2775f07[m Mudando os testes
+[33m7f60564[m Mudando os testes
+[33mb2c698f[m Mudando os testes e o main
+[33m3602b1c[m Update ci-cd.yml
+[33me9f5fd4[m Update ci-cd.yml
+[33md1a635f[m Update ci-cd.yml
+[33m660ae95[m Update README.md
+[33m7569515[m Atualizando o README
+[33mfe19c2a[m Update ci-cd.yml
+[33m629d1ff[m Atualizando o README
+[33mc2d7c85[m Update ci-cd.yml
+[33md87d614[m Update README.md
+[33m778b27b[m Update ci-cd.yml
+[33me22e305[m Update ci-cd.yml
+[33m244b8a0[m Update ci-cd.yml
+[33ma200cf1[m Update ci-cd.yml
+[33mc1cbb5a[m Update ci-cd.yml
+[33m86afe3c[m Update ci-cd.yml
+[33m58f1679[m Delete build directory
+[33m00dd4d8[m add .gitignore
+[33m90f42d4[m retirei o .gitignore
+[33m073a711[m Atualziando o servidor
+[33mb1e9c75[m Delete components/testable directory
+[33m137fa19[m Iniciando o repositório com a primeira versão de arquivos
+[33m3ea7b9e[m Update ci-cd.yml
+[33md2709b8[m Update ci-cd.yml
+[33m7af63e3[m Update ci-cd.yml
+[33m5c6bc27[m Delete release.yml
+[33mf43e5e2[m Update ci-cd.yml
+[33mbf57f20[m Update ci-cd.yml
+[33m34c03c3[m Update ci-cd.yml
+[33m132c36f[m Update and rename ci.yml to ci-cd.yml
+[33m831dd10[m Delete release_zip.yml
+[33m8927f8e[m Update release.yml
+[33md156579[m Update release.yml
+[33m97712bc[m Create release.yml
+[33m5ca738b[m Update and rename basic.yml to ci.yml
+[33m6c2dc41[m Rename release_zip to release_zip.yml
+[33m590cb14[m Create release_zip
+[33m65d4700[m Update basic.yml
+[33ma3ff223[m Create basic.yml
+[33m566141a[m Initial commit
